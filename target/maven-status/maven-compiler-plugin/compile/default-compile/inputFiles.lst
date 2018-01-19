@@ -1,0 +1,11 @@
+/home/jorge/GIT/Recipes/src/main/java/database/DatabaseConfig.java
+/home/jorge/GIT/Recipes/src/main/java/model/Recipe.java
+/home/jorge/GIT/Recipes/src/main/java/controller/CookingTypeController.java
+/home/jorge/GIT/Recipes/src/main/java/service/CookingTypeService.java
+/home/jorge/GIT/Recipes/src/main/java/model/Ingredient.java
+/home/jorge/GIT/Recipes/src/main/java/controller/IndexController.java
+/home/jorge/GIT/Recipes/src/main/java/service/Service.java
+/home/jorge/GIT/Recipes/src/main/java/defaul/SpringBootWebApplication.java
+/home/jorge/GIT/Recipes/src/main/java/model/CookingType.java
+/home/jorge/GIT/Recipes/src/main/java/repository/CookingTypeRepository.java
+/home/jorge/GIT/Recipes/src/main/java/model/CookingTool.java
